@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"co",
+				"collapse"
+			],
+			[
+				"nav",
+				"navbar-collapse"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"dat",
+				"data-slide-to"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"s",
+				"span4"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"mo",
+				"month"
+			],
+			[
+				"so",
+				"sorb\tsort_by { |e| .. }"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"st",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Тестовое задание/cookingblog/index.html",
+		"/C/Users/Home/Desktop/Inna/сопровод. письмо к резюме.txt",
+		"/E/Тестовое задание/cookingblog/css/bootstrap.css",
+		"/E/Тестовое задание/cookingblog/css/style.css",
+		"/C/OpenServer/domains/ceramika.in.ua/views/site/index.php",
+		"/C/OpenServer/domains/ceramika.in.ua/template/css/style.css",
+		"/E/Тестовое задание/cookingblog/test.html",
+		"/E/artinov курс/server/Сайт перці/templatemo_style.css",
+		"/C/OpenServer/domains/ceramika.in.ua/template/css/main.css",
+		"/E/artinov курс/server/Сайт перці/index.html",
+		"/E/Тестовое задание/cookingblog/js/bootstrap.js",
+		"/E/Тестовое задание/cookingblog/css/bootstrap.min.css",
+		"/E/Тестовое задание/cookingblog/css/font-awesome.min.css",
+		"/C/Users/Home/Downloads/talentagent/talentagent/default.css",
+		"/C/Users/Home/Downloads/talentagent/talentagent/index.html",
+		"/E/Тестовое задание/cookingblog/view/index.html",
+		"/E/Тестовое задание/bootstrap-3.3.7-dist/css/style.css",
+		"/E/Тестовое задание/bootstrap-3.3.7-dist/view/index.html",
+		"/E/Тестовое задание/bootstrap-3.3.7-dist/css/style.css.txt",
+		"/E/Тестовое задание/bootstrap-3.3.7-dist/view/index.html.txt",
+		"/C/Sites/exercises/test.rb",
+		"/C/Sites/exercises/spec/exercises/animal_spec.rb",
+		"/C/Sites/exercises/exercises/animal.rb",
+		"/C/Sites/exercises/spec/exercises/date_parser_spec.rb",
+		"/C/Sites/exercises/exercises/date_parser.rb",
+		"/C/Sites/exercises/spec/exercises/ps4_spec.rb",
+		"/C/Sites/exercises/exercises/ps4.rb",
+		"/C/Sites/exercises/exercises/ps3.rb",
+		"/C/Sites/exercises/spec/exercises/ps3_spec.rb",
+		"/C/Sites/exercises/exercises/ps2.rb",
+		"/C/Sites/exercises/spec/exercises/ps2_spec.rb",
+		"/C/Sites/ps6.rb",
+		"/C/Sites/exercises/spec/exercises/ps1_spec.rb",
+		"/C/Sites/exercises/exercises/ps1.rb",
+		"/C/Sites/exercises/spec/exercises/calculator_spec.rb",
+		"/C/Sites/exercises/exercises/calculator.rb",
+		"/C/Sites/exercises/spec/exercises/1_spec.rb",
+		"/C/Sites/exercises/spec/spec_helper.rb",
+		"/C/Sites/program.rb",
+		"/C/Sites/exercises/exercises/сalculator.rb",
+		"/C/Sites/ps5.rb",
+		"/C/Sites/ps4.rb",
+		"/C/Sites/ps3.rb",
+		"/C/Sites/ps1.rb",
+		"/C/Sites/ps2.rb"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ico",
+			"inli",
+			"cop",
+			"copy\n",
+			";\n",
+			"footer_menu_list",
+			"footer",
+			"instagram",
+			"span8 block",
+			"row-fluid",
+			".container-fluid",
+			"row ",
+			"icon",
+			"navbar-right",
+			"navbar-fixed-top",
+			"clearfix",
+			"dropdown-menu",
+			"hover",
+			"clearfix",
+			"footer",
+			"container",
+			"nav",
+			"nav li a",
+			"nab li a",
+			".navbar-inverse",
+			"navbar",
+			"border: ",
+			"border: 1px solid ",
+			"navbar",
+			"#080808",
+			"#222",
+			".navbar-inverse",
+			"navbar",
+			"header",
+			"home",
+			"row",
+			"container",
+			"footer",
+			"block",
+			"<a",
+			"<a>",
+			"carousel-c",
+			"carousel-control left",
+			"home",
+			"myCaru",
+			"slide",
+			"item",
+			"dropdown-submenu",
+			"hash"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
